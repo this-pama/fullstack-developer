@@ -47,7 +47,7 @@ Create a simple blog application where users can create, read, update, and delet
 5. **Commit Your Work:** Commit your changes with clear and descriptive commit messages using `git commit -m "Your message here"`.
 6. **Push to GitHub:** Push your branch to your GitHub fork using `git push origin your-branch-name`.
 7. **Create a Pull Request:** Go to your repository on GitHub, and you should see a prompt to create a pull request. Click on it and provide a brief description of your work.
-8. **Submit the Repository Link:** Send the link to your repository to [Insert Email Address] for review.
+8. **Submit the Repository Link:** Send in the link to your repository for review.
 
 **Evaluation Criteria:**
 - Code quality and organization.
